@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>New App 1676890288929</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_my_new_app_1676890288929</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-20 10:51:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bfe46bf2538d2510472dddeeff7b128b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New App 1676890288929</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="my new app" source="x_my_new_app">20e819c153016110472dddeeff7b123c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my new app">20e819c153016110472dddeeff7b123c</sys_scope>
+        <sys_update_name>sys_app_module_bfe46bf2538d2510472dddeeff7b128b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-20 10:51:41</sys_updated_on>
+        <timeline_page/>
+        <title>New App 1676890288929</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my new app">20e819c153016110472dddeeff7b123c</application>
+        <file_path/>
+        <instance_id>878a906c4d012110b203c9b261747fbe</instance_id>
+        <instance_name>vk_local_glide</instance_name>
+        <name>sys_app_module_bfe46bf2538d2510472dddeeff7b128b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>New App 1676890288929</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_my_new_app_1676890288929</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-20 10:51:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bfe46bf2538d2510472dddeeff7b128b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New App 1676890288929</sys_name><sys_overrides/><sys_package display_value="my new app" source="x_my_new_app">20e819c153016110472dddeeff7b123c</sys_package><sys_policy/><sys_scope display_value="my new app">20e819c153016110472dddeeff7b123c</sys_scope><sys_update_name>sys_app_module_bfe46bf2538d2510472dddeeff7b128b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-20 10:51:41</sys_updated_on><timeline_page/><title>New App 1676890288929</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1074979241</payload_hash>
+        <record_name>New App 1676890288929</record_name>
+        <reverted_from/>
+        <source>ace819c153016110472dddeeff7b123d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-20 10:51:41</sys_created_on>
+        <sys_id>37e46bf2538d2510472dddeeff7b128e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1866e7364410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-20 10:51:41</sys_updated_on>
+        <type>Module</type>
+        <update_guid>7be46bf2348d25102965a2cafeb5aa8d</update_guid>
+        <update_guid_history>7be46bf2348d25102965a2cafeb5aa8d:1074979241</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New App 1676890288929">7215ab36538d2510472dddeeff7b12dd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-20 10:52:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>367893e381e1483a8219b8e938c52a59</sys_id>
+        <sys_metadata>bfe46bf2538d2510472dddeeff7b128b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New App 1676890288929</sys_name>
+        <sys_package display_value="my new app" source="x_my_new_app">20e819c153016110472dddeeff7b123c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="my new app">20e819c153016110472dddeeff7b123c</sys_scope>
+        <sys_scope_delete display_value="">60ef1057677141949a5d4ad4b5ef05c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_bfe46bf2538d2510472dddeeff7b128b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_bfe46bf2538d2510472dddeeff7b128b">37e46bf2538d2510472dddeeff7b128e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-20 10:52:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

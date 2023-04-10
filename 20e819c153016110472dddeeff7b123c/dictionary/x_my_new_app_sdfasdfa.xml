@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3676ef7e538d2510472dddeeff7b12f8" label="test prefs" max_length="40" name="x_my_new_app_sdfasdfa" type="collection">
+        <element label="New Field 1" max_length="40" name="new_field_1" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

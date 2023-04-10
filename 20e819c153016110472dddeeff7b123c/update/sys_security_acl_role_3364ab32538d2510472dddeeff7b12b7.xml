@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-20 10:49:30</sys_created_on>
+        <sys_id>3364ab32538d2510472dddeeff7b12b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test data import.x_my_new_app.admin</sys_name>
+        <sys_package display_value="my new app" source="x_my_new_app">20e819c153016110472dddeeff7b123c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my new app">20e819c153016110472dddeeff7b123c</sys_scope>
+        <sys_security_acl display_value="test data import">fb64ab32538d2510472dddeeff7b1285</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3364ab32538d2510472dddeeff7b12b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-20 10:49:30</sys_updated_on>
+        <sys_user_role display_value="x_my_new_app.admin" name="x_my_new_app.admin">70e819c153016110472dddeeff7b1242</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
